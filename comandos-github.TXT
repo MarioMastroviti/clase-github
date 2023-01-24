@@ -1,0 +1,6 @@
+abro el archico con git bash
+
+git init inicializa
+
+git status te muestra los archivos git add . sube todo, sin el punto agrega por partes.
+
